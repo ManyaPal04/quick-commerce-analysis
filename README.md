@@ -42,4 +42,31 @@ GitHub: [ManyaPal04](https://github.com/ManyaPal04)
 
 ---
 
+# 📦 Quick Commerce Consumer Insights
+
+This project analyzes consumer behavior based on survey responses related to quick commerce platforms like Zepto, Blinkit, Instamart, etc. The aim is to extract meaningful insights through data cleaning, analysis, and visualization using Python.
+
+---
+
+📊 Summary of Findings
+
+- ✅ **Zepto** is the most popular quick commerce platform, followed by **Blinkit** and **Instamart**.
+- 👥 Most users are **18–24-year-old students**, indicating strong adoption among youth.
+- 🕓 Orders are mostly placed in the **evening (4 PM – 9 PM)**, aligning with after-work/college hours.
+- 🚀 Top reasons for using quick commerce:
+  - Convenience
+  - Fast delivery
+  - Discounts & offers
+- 🛒 Frequently purchased categories:
+  - Groceries
+  - Snacks & Beverages
+  - Household Essentials
+- 🌟 **Satisfaction Ratings:**
+  - Majority rated their experience **4 or 5 out of 5**
+- ⚠️ Reported Issues:
+  - Missing/Wrong items
+  - Price discrepancies
+  - Late deliveries
+- 🔮 **Future Intentions:**
+  - Almost all respondents plan to **continue using** quick commerce platforms.
 
